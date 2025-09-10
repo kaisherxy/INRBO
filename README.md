@@ -4,12 +4,10 @@
 
 % Author: Xueyan Ru, Aimin Qiao, Kai He, Dawei Xue and Fan Yang
 
-% Journal: Applied Mathematical Modelling
-
 % E-mail: ruxy@bbc.edu.cn, xueyan_ru@sina.cn; kaihe@ustl.edu.cn, kaihe518@sina.cn
 
 % Source code Developed by: Xueyan Ru and Kai He, 2025-08-29
 
 %======================================================================
 
-After the paper is accepted, further details will be updated.
+After the paper is formally published, further details will be updated.
